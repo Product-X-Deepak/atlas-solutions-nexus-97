@@ -51,6 +51,7 @@
     "framer-motion": "10.16.4",
     "input-otp": "1.4.1",
     "isomorphic-dompurify": "latest",
+    "lovable-tagger": "^1.1.8",
     "lucide-react": "^0.454.0",
     "nanoid": "^5.1.5",
     "next": "15.2.4",
