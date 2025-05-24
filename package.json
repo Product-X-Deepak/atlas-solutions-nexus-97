@@ -64,6 +64,7 @@
     "react-hook-form": "latest",
     "react-markdown": "^10.1.0",
     "react-resizable-panels": "^2.1.7",
+    "react-router-dom": "^7.6.0",
     "react-server-dom-webpack": "^19.1.0",
     "recharts": "2.15.0",
     "sharp": "latest",
